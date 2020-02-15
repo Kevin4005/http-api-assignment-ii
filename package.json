@@ -8,6 +8,10 @@
     "pretest": "eslint ./src --fix",
     "test": "echo \"Tests complete\""
   },
+      "engines": {
+        "node": "13.7.0",
+        "npm": "6.13.6"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kevin4005/http-api-assignment-ii.git"
